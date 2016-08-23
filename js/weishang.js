@@ -73,7 +73,7 @@ $(function(){
 	
 	
 	
-	var myHeigt = $('..shoppCart-con-mid').height();
+	var myHeigt = $('.shoppCart-con-mid').height();
 	$('.shoppCart-con-left p').css({'height':''+myHeigt+'px'}); 
 	
 	//产品列表页面

@@ -273,7 +273,7 @@
 .shoppCart-mid-left{ width:6.5em; padding-left:2em; }
 .shoppCart-mid-left p{ display:inline-block; }
 .shoppCart-mid-left b{ padding-left:1.8em; }
-.shoppCart-mid-left label{ width:1.5em; height:1.5em; display:block; background:url(../img/select-nor.png) no-repeat center center; background-size:1.2em; }
+.shoppCart-mid-left label{ width:1.5em; height:1.5em;}
 .shoppCart-mid-left input{ width:0; height:0; position:absolute; top:0; }
 .shoppCart-mid-del{ padding:.35em .5em .4em; border:1px solid #f85a5a; border-radius:5px; color:#f85a5a; text-align:center; }
 .shoppCart-mid-right,.shoppCart-mid-left{ padding:.4em 0 .3em; }
